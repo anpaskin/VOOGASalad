@@ -1,4 +1,4 @@
-# voogasalad
+# VOOGASalad
 
 * Archana Ahlawat, Nik Bramblett, Dara Buggay, Ryan Chung, Samarth Desai, Ian Eldridge-Allegra, Aaron Paskin, Sam Slack, Owen Smith, David Tran
 * Started on October 31st, ended on December 15th, estimated 1,500 hours total amongst all group members spent on the project
