@@ -1,5 +1,6 @@
 # VOOGASalad
 
+### Contributors
 * Archana Ahlawat, Nik Bramblett, Dara Buggay, Ryan Chung, Samarth Desai, Ian Eldridge-Allegra, Aaron Paskin, Sam Slack, Owen Smith, David Tran
 * Started on October 31st, ended on December 15th, estimated 1,500 hours total amongst all group members spent on the project
 * Files used to start the project: default_pkg.Main launches SceneController, which creates the welcome screen from which the user can either play a pre-existing game, build their own game, or view the settings for the game.
