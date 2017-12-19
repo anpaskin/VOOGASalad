@@ -1,7 +1,7 @@
 # VOOGASalad
 * Archana Ahlawat, Nik Bramblett, Dara Buggay, Ryan Chung, Samarth Desai, Ian Eldridge-Allegra, Aaron Paskin, Sam Slack, Owen Smith, David Tran
 * Started on October 31st, ended on December 15th, estimated 1,500 hours total amongst all group members spent on the project
-* Files used to start the project: default_pkg.Main launches SceneController, which creates the welcome screen from which the user can either play a pre-existing game, build their own game, or view the settings for the game.
+* Files used to start the project: Run default_pkg.Main in src folder. This launches SceneController, which creates the welcome screen from which the user can either play a pre-existing game, build their own game, or view the settings for the game.
 
 # Synopsis
 * VOOGASalad is a 2D game authoring environment that gives users the ability to create arcade-style games of genres ranging from RPG's to platformers, save and reload them, and play them, with no programming experience necessary.
